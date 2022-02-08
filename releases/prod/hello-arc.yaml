@@ -16,4 +16,4 @@ spec:
     replicaCount: 3
     env:
       name: MESSAGE
-      value: Hello Azure Arc Production!
+      value: Hello Azure Arc GitOps Demo!
