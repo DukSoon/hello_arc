@@ -16,4 +16,4 @@ spec:
     replicaCount: 1
     env:
       name: MESSAGE
-      value: Hello Azure Day - Azure Hybrid!
+      value: Hello Azure Arc!!
